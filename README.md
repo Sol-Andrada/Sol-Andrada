@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sol-andrada&label=Profile%20views&color=0e75b6&style=flat" alt="sol-andrada" /> </p>
 
-- 🌱 I’m currently learning **C++ and JavaScript.**
+- 🌱 I’m currently learning **JavaScript.**
 
 - 👨‍💻 All of my projects are available at [https://sol-andrada.github.io](https://sol-andrada.github.io)
 

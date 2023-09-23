@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./solbanner.png)
 <!--
 <h1 align="center">Hi 👋, I'm Sol Andrada</h1>
 -->

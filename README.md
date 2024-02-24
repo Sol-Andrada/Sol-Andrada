@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sol-andrada&label=Profile%20views&color=0e75b6&style=flat" alt="sol-andrada" /> </p>
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **Python.**
 
 - 👨‍💻 All of my projects are available at [https://sol-andrada.github.io](https://sol-andrada.github.io)
 
 - 📫 How to reach me **sol.lena.andrada@hotmail.com**
 
-- ⚡ Fun fact **I like mate🧉**
+- ⚡ Fun fact **My cat name is Michi🐱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
